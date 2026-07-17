@@ -3,7 +3,7 @@ import Props from './Props'
 import List from './List'
 
 const App = () => {
-  let name = "Asfaq"
+  let name = "Prince"
   let tech = "MERN"
   return (
     <div>
